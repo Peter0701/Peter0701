@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Peter0701
 - 👀 I'm a HUSTer
-- 🌱 I’m currently learning MiniOB
-- 💞️ I’m looking to collaborate on OceanBase compitition
 - 📫 How to reach me -> 2427517059@qq.com
 
 <!---
