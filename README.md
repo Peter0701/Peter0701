@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xin Liu
-- 👀 I'm a MS student in UCAS
+- 👀 I'm a MS student of ICT, CAS.
 - 📫 How to reach me -> liuxin25s@ict.ac.cn
 
 <!---
